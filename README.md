@@ -1,13 +1,13 @@
-Adaptive Optics Control GUI for the Habitable Worlds Observatory (hwo1dGUI)
+Adaptive Optics control GUI (ao_control_gui)
 Author(s): Benjamin L Gerard
 
 Release
-hwo1dGUI is distributed under the terms of the MIT license. All new contributions must be made under the MIT license.
+ao_control_gui is distributed under the terms of the BSD-3 license. All new contributions must be made under the BSD-3 license.
 
 See Link to license and NOTICE for details.
 
-GUI in a web browser: https://mybinder.org/v2/gh/LLNL/hwo1dGUI/HEAD?urlpath=%2Fdoc%2Ftree%2FHWO_1D_GUI.ipynb
+GUI in a web browser: https://mybinder.org/v2/gh/llnl/ao_control_gui/main?urlpath=%2Fdoc%2Ftree%2Fcontrol_gui.ipynb
 
-SPDX-License-Identifier: MIT
+SPDX-License-Identifier: BSD-3
 
-LLNL-CODE-2004460
+LLNL-CODE-2016493
